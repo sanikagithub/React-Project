@@ -1,4 +1,4 @@
-//For exercise 1.1
+/*For exercise 1.1
 import React from 'react';
     const Header = (props) =>{
       return(
@@ -36,7 +36,7 @@ import React from 'react';
     }
 
     
-const App = () => {
+//const App = () => {
   const course = 'Half Stack application development'
   const part1 = 'Fundamentals of React'
   const exercises1 = 10
@@ -54,5 +54,5 @@ const App = () => {
       <Total total={exercises1 + exercises2 + exercises3}></Total>
     </div>
   )
-}
-export default App;
+}*/
+
